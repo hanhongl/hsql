@@ -1,9 +1,3 @@
-### HSQL
-
-> author: 韩洪亮
->
-> date: 2022.6
-
 #### 1、编译
 
 - Linux、Mac以及unix平台下，直接使用提供的makefile编译即可
